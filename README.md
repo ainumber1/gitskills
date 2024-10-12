@@ -1,3 +1,4 @@
 # gitskills
 Creating a new branch is quick.
-quick and simple
+Creating a new branch called dev.
+fen zhi
